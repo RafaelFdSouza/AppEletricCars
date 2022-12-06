@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EletricCarApp</string>
+    <string name="eletric_car">Eletric Car</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="imagem_carro">Imagem carro</string>
+    <string name="preco">Preço:</string>
+    <string name="autonomia">Autonomia:</string>
+    <string name="potencia">Potẽncia:</string>
+    <string name="calcular">Calcular</string>
+    <string name="calcule_os_gastos_de_uma_viagem">Calcule os gastos de uma viagem</string>
+    <string name="quilometragem_da_viagem">Quilometragem da viagem</string>
+    <string name="custo_do_kwh">Custo do kwh</string>
+    <string name="km_kwh">km/kwh</string>
+    <string name="resultado">Resultado</string>
+</resources>

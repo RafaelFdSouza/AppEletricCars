@@ -7,7 +7,11 @@
         <entry key="app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.137" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1195" />
         <entry key="app/src/main/res/layout/activity_calcular_autonomia.xml" value="0.141015625" />
+        <entry key="app/src/main/res/layout/activity_calcular_custos.xml" value="0.141015625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_car.xml" value="0.16040100250626566" />
+        <entry key="app/src/main/res/layout/fragment_carros.xml" value="0.141015625" />
+        <entry key="app/src/main/res/layout/fragment_favoritos.xml" value="0.141015625" />
         <entry key="app/src/main/res/layout/item_carro.xml" value="0.140234375" />
       </map>
     </option>

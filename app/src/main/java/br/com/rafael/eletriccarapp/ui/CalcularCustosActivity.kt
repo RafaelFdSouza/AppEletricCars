@@ -1,14 +1,14 @@
-package br.com.rafael.eletriccarapp.presenter
+package br.com.rafael.eletriccarapp.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import br.com.rafael.eletriccarapp.databinding.ActivityCalcularAutonomiaBinding
+import br.com.rafael.eletriccarapp.databinding.ActivityCalcularCustosBinding
 
-class CalcularAutonomiaActivity : AppCompatActivity() {
-    private lateinit var binding: ActivityCalcularAutonomiaBinding
+class CalcularCustosActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityCalcularCustosBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityCalcularAutonomiaBinding.inflate(layoutInflater)
+        binding = ActivityCalcularCustosBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         binding.btnCalcular.setOnClickListener {
